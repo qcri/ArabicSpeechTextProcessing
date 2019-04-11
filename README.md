@@ -7,5 +7,7 @@ The code can help:
   - You can use buildConf to explore inter annotator disagreement;
   - You can see example for reportWER function to comapre two files.
 
-## Analysis_is2019: This is for the interspeech submission; Toward Variability Resistant Dialectal Speech Evaluation
+### Analysis_is2019: 
+This reflects the work for interspeech 2019 submission
+  - Toward Variability Resistant Dialectal Speech Evaluation.
 
